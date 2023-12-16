@@ -1,0 +1,14 @@
+E:\Visual Studio project\Protect\Lk3.1\Lk3.1\bin\Debug\net8.0\Lk3.1.exe
+E:\Visual Studio project\Protect\Lk3.1\Lk3.1\bin\Debug\net8.0\Lk3.1.deps.json
+E:\Visual Studio project\Protect\Lk3.1\Lk3.1\bin\Debug\net8.0\Lk3.1.runtimeconfig.json
+E:\Visual Studio project\Protect\Lk3.1\Lk3.1\bin\Debug\net8.0\Lk3.1.dll
+E:\Visual Studio project\Protect\Lk3.1\Lk3.1\bin\Debug\net8.0\Lk3.1.pdb
+E:\Visual Studio project\Protect\Lk3.1\Lk3.1\obj\Debug\net8.0\Lk3.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio project\Protect\Lk3.1\Lk3.1\obj\Debug\net8.0\Lk3.1.AssemblyInfoInputs.cache
+E:\Visual Studio project\Protect\Lk3.1\Lk3.1\obj\Debug\net8.0\Lk3.1.AssemblyInfo.cs
+E:\Visual Studio project\Protect\Lk3.1\Lk3.1\obj\Debug\net8.0\Lk3.1.csproj.CoreCompileInputs.cache
+E:\Visual Studio project\Protect\Lk3.1\Lk3.1\obj\Debug\net8.0\Lk3.1.dll
+E:\Visual Studio project\Protect\Lk3.1\Lk3.1\obj\Debug\net8.0\refint\Lk3.1.dll
+E:\Visual Studio project\Protect\Lk3.1\Lk3.1\obj\Debug\net8.0\Lk3.1.pdb
+E:\Visual Studio project\Protect\Lk3.1\Lk3.1\obj\Debug\net8.0\Lk3.1.genruntimeconfig.cache
+E:\Visual Studio project\Protect\Lk3.1\Lk3.1\obj\Debug\net8.0\ref\Lk3.1.dll
