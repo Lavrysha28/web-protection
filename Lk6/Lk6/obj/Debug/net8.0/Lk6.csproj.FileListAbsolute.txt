@@ -1,0 +1,14 @@
+E:\Visual Studio project\Protect\Lk6\Lk6\bin\Debug\net8.0\Lk6.exe
+E:\Visual Studio project\Protect\Lk6\Lk6\bin\Debug\net8.0\Lk6.deps.json
+E:\Visual Studio project\Protect\Lk6\Lk6\bin\Debug\net8.0\Lk6.runtimeconfig.json
+E:\Visual Studio project\Protect\Lk6\Lk6\bin\Debug\net8.0\Lk6.dll
+E:\Visual Studio project\Protect\Lk6\Lk6\bin\Debug\net8.0\Lk6.pdb
+E:\Visual Studio project\Protect\Lk6\Lk6\obj\Debug\net8.0\Lk6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio project\Protect\Lk6\Lk6\obj\Debug\net8.0\Lk6.AssemblyInfoInputs.cache
+E:\Visual Studio project\Protect\Lk6\Lk6\obj\Debug\net8.0\Lk6.AssemblyInfo.cs
+E:\Visual Studio project\Protect\Lk6\Lk6\obj\Debug\net8.0\Lk6.csproj.CoreCompileInputs.cache
+E:\Visual Studio project\Protect\Lk6\Lk6\obj\Debug\net8.0\Lk6.dll
+E:\Visual Studio project\Protect\Lk6\Lk6\obj\Debug\net8.0\refint\Lk6.dll
+E:\Visual Studio project\Protect\Lk6\Lk6\obj\Debug\net8.0\Lk6.pdb
+E:\Visual Studio project\Protect\Lk6\Lk6\obj\Debug\net8.0\Lk6.genruntimeconfig.cache
+E:\Visual Studio project\Protect\Lk6\Lk6\obj\Debug\net8.0\ref\Lk6.dll
